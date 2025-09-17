@@ -2,7 +2,7 @@
 ## Matlab电话按键拨号器设计
 
 ### 运行展示
-![1718541775734](https://github.com/Auorui/Design-of-Matlab-Phone-Key-Dialer/assets/100789256/4637b765-11f8-4016-b256-bf72ca00647b)
+![系统运行演示](./assets/1.gif)
 
 ### 程序版本使用
 本程序已在 Matlab R2024a 版本上成功运行。以下是使用说明：
