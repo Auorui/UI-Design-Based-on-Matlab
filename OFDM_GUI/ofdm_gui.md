@@ -2,8 +2,7 @@
 基于matlab的OFDM GUI设计
 
 ### 运行展示
-![1719937610734](https://github.com/Auorui/Design-of-OFDM-GUI/assets/100789256/98ca7fdf-84cc-4891-a33a-3a92bdc48e82)
-
+![系统运行演示](./assets/2.gif)
 
 ### 程序版本使用
 本程序已在 Matlab R2024a 版本上成功运行。以下是使用说明：
