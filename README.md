@@ -1,20 +1,22 @@
-# Design-of-Matlab-Phone-Key-Dialer
-## Matlab电话按键拨号器设计
+# Matlab Projects
 
-### 运行展示
-![1718541775734](https://github.com/Auorui/Design-of-Matlab-Phone-Key-Dialer/assets/100789256/4637b765-11f8-4016-b256-bf72ca00647b)
+本仓库包含两个基于 **Matlab GUI** 设计的项目，均已在 **Matlab R2024a** 上成功运行。  
+点击对应的项目名称可查看详细说明与使用方法。
 
-### 程序版本使用
-本程序已在 Matlab R2024a 版本上成功运行。以下是使用说明：
+---
 
-1. 直接运行 `zjr_dialing.m` 即可启动程序。
-2. 如果遇到 `ColorPicker` 报错，可以删除相关包含的内容。
-3. 按键点击太快可能有点卡顿，可以将sound ---> soundsc函数即可解决。
+## 📌 [Design-of-OFDM-GUI](./OFDM_GUI/ofdm_gui.md)
+基于 Matlab 的 **OFDM GUI 设计**，支持误码率计算与多径仿真。  
+- 提供 `.m` 文件版本与独立 `.exe` 桌面运行版本。  
+- 运行演示：  
+  ![系统运行演示](./OFDM_GUI/assets/2.gif)  
 
-### 独立桌面版本的使用
-无需 Matlab 环境即可运行：
+---
 
-1. 直接双击 `.exe` 文件即可启动程序。
+## 📌 [Design-of-Matlab-Phone-Key-Dialer](./Phone_Key_Dialer/phone_key_dialer.md)
+基于 Matlab 的 **电话按键拨号器设计**，支持声音拨号与按键交互。  
+- 提供 `.m` 文件版本与独立 `.exe` 桌面运行版本。  
+- 运行演示：  
+  ![系统运行演示](./Phone_Key_Dialer/assets/1.gif)  
 
-### 其他
-详细教程请参阅博客文章：[点击查看博客](https://blog.csdn.net/m0_62919535/article/details/139704500)
+---
